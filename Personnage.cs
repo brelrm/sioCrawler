@@ -3,4 +3,6 @@ class Personnage {
 	}
 	void Deplacer(Personnage personnage, int force){
 	}
+	void lieu Regarder(Direction direction, int distance){
+	}
 }
